@@ -63,7 +63,7 @@ const About = () => {
                 <span className="mb-4 mr-4 inline-flex rounded-full bg-meta px-4.5 py-1 text-metatitle uppercase text-white ">
                   New
                 </span>{" "}
-                SaaS Boilerplate for Next.js
+                SaaS software development
               </span>
               <h2 className="relative mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
                 A Complete Solution for
@@ -72,8 +72,7 @@ const About = () => {
                 </span>
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-                ultricies lacus non fermentum ultrices. Fusce consectetur le.
+                Bytech minds provides IT solutions for various industries.
               </p>
 
               <div className="mt-7.5 flex items-center gap-5">
@@ -84,9 +83,9 @@ const About = () => {
                 </div>
                 <div className="w-3/4">
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
-                    React 18, Next.js 13 and TypeScript
+                    Solutions in latest trending plateforms
                   </h3>
-                  <p>Ut ultricies lacus non fermentum ultrices.</p>
+                  <p>React, Nodejs, Java, web and mobile solutions</p>
                 </div>
               </div>
               <div className="mt-7.5 flex items-center gap-5">
@@ -97,9 +96,9 @@ const About = () => {
                 </div>
                 <div className="w-3/4">
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
-                    Fully Customizable
+                    Customer Support 
                   </h3>
-                  <p>consectetur adipiscing elit fermentum ultricies.</p>
+                  <p>A complete support for software with reasonable costs/</p>
                 </div>
               </div>
             </motion.div>
@@ -131,7 +130,7 @@ const About = () => {
               className="animate_left md:w-1/2"
             >
               <h4 className="font-medium uppercase text-black dark:text-white">
-                Launch Your SaaS Fast
+                Launch Your Product Fast
               </h4>
               <h2 className="relative mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
                 Packed with All Essential {"   "}
@@ -140,8 +139,7 @@ const About = () => {
                 </span>
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-                ultricies lacus non fermentum ultrices. Fusce consectetur le.
+                Provide integrations will third party services and fully compatible to give reliable, robust experience.
               </p>
               <div>
                 <a
