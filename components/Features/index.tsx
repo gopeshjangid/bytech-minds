@@ -13,11 +13,9 @@ const Feature = () => {
           {/* <!-- Section Title Start --> */}
           <SectionHeader
             headerInfo={{
-              title: "SOLID FEATURES",
-              subtitle: "Core Features of Solid",
-              description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
-            convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam
-            ante in maximus.`,
+              title: "OUR CORE IDEA",
+              subtitle: "Why Choose Bytech Minds?",
+              description: `At Bytech Minds, we deliver state-of-the-art software solutions and IT services tailored to meet your unique needs. Explore the features that set us apart in the world of technology.`,
             }}
           />
           {/* <!-- Section Title End --> */}

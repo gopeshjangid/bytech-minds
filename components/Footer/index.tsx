@@ -46,7 +46,9 @@ const Footer = () => {
                 </a>
 
                 <p className="mb-10 mt-5">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Bytech Minds is your trusted partner in digital innovation,
+                  delivering tailored software solutions and exceptional
+                  services across the globe.
                 </p>
 
                 <p className="mb-1.5 text-sectiontitle uppercase tracking-[5px]">

@@ -63,16 +63,18 @@ const About = () => {
                 <span className="mb-4 mr-4 inline-flex rounded-full bg-meta px-4.5 py-1 text-metatitle uppercase text-white ">
                   New
                 </span>{" "}
-                SaaS software development
+                IT Solutions & Beyond
               </span>
               <h2 className="relative mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
-                A Complete Solution for
+                Tailored Software for
                 <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg dark:before:bg-titlebgdark">
-                  SaaS Startup
+                  Diverse Industries
                 </span>
               </h2>
               <p>
-                Bytech minds provides IT solutions for various industries.
+                Bytech Minds provides cutting-edge IT solutions spanning SaaS
+                platforms, mobile apps, blockchain, and NFC-enabled systems,
+                driving innovation across various domains.
               </p>
 
               <div className="mt-7.5 flex items-center gap-5">
@@ -83,9 +85,12 @@ const About = () => {
                 </div>
                 <div className="w-3/4">
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
-                    Solutions in latest trending plateforms
+                    Cutting-edge Mobile Development
                   </h3>
-                  <p>React, Nodejs, Java, web and mobile solutions</p>
+                  <p>
+                    Expertise in building native and hybrid mobile applications
+                    for seamless user experiences.
+                  </p>
                 </div>
               </div>
               <div className="mt-7.5 flex items-center gap-5">
@@ -96,9 +101,12 @@ const About = () => {
                 </div>
                 <div className="w-3/4">
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
-                    Customer Support 
+                    NFC Solutions
                   </h3>
-                  <p>A complete support for software with reasonable costs/</p>
+                  <p>
+                    Innovative contactless payment and NFC-enabled solutions
+                    tailored for modern businesses.
+                  </p>
                 </div>
               </div>
             </motion.div>
@@ -130,16 +138,18 @@ const About = () => {
               className="animate_left md:w-1/2"
             >
               <h4 className="font-medium uppercase text-black dark:text-white">
-                Launch Your Product Fast
+                Launch Your Product with Ease
               </h4>
               <h2 className="relative mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
-                Packed with All Essential {"   "}
+                Empowered by
                 <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg2 dark:before:bg-titlebgdark">
-                  Integrations
+                  Seamless Integrations
                 </span>
               </h2>
               <p>
-                Provide integrations will third party services and fully compatible to give reliable, robust experience.
+                Bytech Minds provides integrations with third-party services to
+                ensure reliable, robust, and scalable software products for
+                businesses worldwide.
               </p>
               <div>
                 <a
@@ -147,7 +157,7 @@ const About = () => {
                   className="group mt-7.5 inline-flex items-center gap-2.5 text-black hover:text-primary dark:text-white dark:hover:text-primary"
                 >
                   <span className="duration-300 group-hover:pr-2">
-                    Know More
+                    Learn More
                   </span>
                   <svg
                     width="14"

@@ -14,24 +14,32 @@ const Hero = () => {
       <section className="overflow-hidden pb-20 pt-35 md:pt-40 xl:pb-25 xl:pt-46">
         <div className="mx-auto max-w-c-1390 px-4 md:px-8 2xl:px-0">
           <div className="flex lg:items-center lg:gap-8 xl:gap-32.5">
-            <div className=" md:w-1/2">
+            <div className="md:w-1/2">
               <h4 className="mb-4.5 text-lg font-medium text-black dark:text-white">
-                Bytech minds
+                Bytech Minds
               </h4>
               <h1 className="mb-5 pr-16 text-3xl font-bold text-black dark:text-white xl:text-hero ">
-                A Software Development Company that provides software solutions
-                <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg dark:before:bg-titlebgdark ">
-                  SaaS
+                Innovative Software Solutions for a Connected World
+                <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg dark:before:bg-titlebgdark">
+                  Digital Transformation
                 </span>
               </h1>
               <p>
-                We provide software solutions to businesses and individuals that
-                help them achieve their goals. We are a team of highly skilled
-                professionals who are passionate about what we do.
+                At Bytech Minds, we specialize in creating cutting-edge software
+                solutions that empower businesses and individuals globally.
+                From software development to IT consulting, we are committed to
+                driving digital transformation and enabling success in diverse
+                industries.
+              </p>
+              <p className="mt-4">
+                Our expertise spans emerging technologies, SaaS platforms,
+                enterprise solutions, and custom software designed to address
+                the unique needs of our clients. With a passion for innovation,
+                we deliver excellence every step of the way.
               </p>
 
               <div className="mt-10">
-                {/* <form onSubmit={handleSubmit}>
+                <form onSubmit={handleSubmit}>
                   <div className="flex flex-wrap gap-5">
                     <input
                       value={email}
@@ -47,11 +55,11 @@ const Hero = () => {
                       Get Started
                     </button>
                   </div>
-                </form> */}
+                </form>
 
-                {/* <p className="mt-5 text-black dark:text-white">
-                  Try for free no credit card required.
-                </p> */}
+                <p className="mt-5 text-black dark:text-white">
+                  Start your journey with Bytech Minds today. Connect with your expertise and join the journey of innovative solutions.
+                </p>
               </div>
             </div>
 
@@ -78,7 +86,7 @@ const Hero = () => {
                   height={21.66}
                   className="absolute -right-6.5 bottom-0 z-1"
                 />
-                <div className=" relative aspect-[700/444] w-full">
+                <div className="relative aspect-[700/444] w-full">
                   <Image
                     className="shadow-solid-l dark:hidden"
                     src="/images/hero/hero-light.svg"
